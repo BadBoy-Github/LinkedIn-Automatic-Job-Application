@@ -60,7 +60,6 @@ sleep(3)
 
 print("⚠️ Please Check the Details Finally!")
 
-
 submit = driver.find_element(By.ID, value='ember324')
 submit.click()
 print("✅ Submit")
